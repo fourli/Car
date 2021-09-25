@@ -1,4 +1,3 @@
 "hi!"
 "haha"
-"hi"
-"yoyo"
+"nihao"
